@@ -2,21 +2,21 @@
 <tr>
 <td width="60%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C420&width=435&size=35&lines=Hi%2C+welcome+to+my+profile.;Breaking+things+to+understand+them.;Securing+systems%2C+one+bug+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C420&width=435&size=19&lines=Hi%2C+welcome+to+my+profile.;Breaking+things+to+understand+them.;Securing+systems%2C+one+bug+at+a+time.)](https://git.io/typing-svg)
 
 </td>
 <td width="40%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00C420&background=00000000&width=380&height=120&lines=root%40telapoka%3A~%23+nmap+-sV+target;Scanning+ports...;Access+Granted+%E2%9C%94" alt="terminal animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=00C420&background=00000000&width=380&height=120&lines=root%40telapoka%3A~%23+nmap+-sV+target;Scanning+ports...;Access+Granted+%E2%9C%94" alt="terminal animation">
 </td>
 </tr>
 </table>
 
-# 🐞 Who Is TELAPOKA?
+# 🐞 Who Is ME?
 
 ## About
 
-**Name:** Tanjiur Rahman  
-**Alias:** TELAPOKA  
+**Name:** Tanjiur Rahman Twha  
+**Alias:** Telapoka
 **Field:** Computer Science & Engineering  
 **Focus:** Cyber Security · Systems Programming · Problem Solving
 
@@ -35,7 +35,8 @@
 
 ## 🔐 What I Work On
 
-- Studying how systems break — and how to make them break-resistant
+- Studying how systems break
+-  and how to make them break-resistant
 - Practicing exploitation and defense techniques through CTFs and labs
 - Reading up on network protocols, OS internals, and secure coding practices
 - Writing small tools and scripts to automate analysis and bug hunting
