@@ -2,11 +2,11 @@
 <tr>
 <td width="60%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C420&width=435&lines=Hi%2C+welcome+to+my+profile.;Breaking+things+to+understand+them.;Securing+systems%2C+one+bug+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C420&width=435&size=35&lines=Hi%2C+welcome+to+my+profile.;Breaking+things+to+understand+them.;Securing+systems%2C+one+bug+at+a+time.)](https://git.io/typing-svg)
 
 </td>
 <td width="40%">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=00C420&background=00000000&width=380&height=120&lines=root%40telapoka%3A~%23+nmap+-sV+target;Scanning+ports...;Access+Granted+%E2%9C%94" alt="terminal animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=00C420&background=00000000&width=380&height=120&lines=root%40telapoka%3A~%23+nmap+-sV+target;Scanning+ports...;Access+Granted+%E2%9C%94" alt="terminal animation">
 </td>
 </tr>
 </table>
