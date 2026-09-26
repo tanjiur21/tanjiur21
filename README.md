@@ -6,17 +6,17 @@
 
 </td>
 <td width="40%">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTUwaDR0cDV2MmlwbGNuczA5b2FqcmM0dHIzencwdnp6OGpvMHl5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=00C420&background=00000000&width=380&height=120&lines=root%40telapoka%3A~%23+nmap+-sV+target;Scanning+ports...;Access+Granted+%E2%9C%94" alt="terminal animation">
 </td>
 </tr>
 </table>
 
-# 🐞 Who Is ME?
+# 🐞 Who Is TELAPOKA?
 
 ## About
 
-**Name:** Tanjiur Rahman Twha 
-**Alias:** Telapoka  
+**Name:** Tanjiur Rahman  
+**Alias:** TELAPOKA  
 **Field:** Computer Science & Engineering  
 **Focus:** Cyber Security · Systems Programming · Problem Solving
 
@@ -35,7 +35,7 @@
 
 ## 🔐 What I Work On
 
-- Studying how systems break and how to make them break-resistant
+- Studying how systems break — and how to make them break-resistant
 - Practicing exploitation and defense techniques through CTFs and labs
 - Reading up on network protocols, OS internals, and secure coding practices
 - Writing small tools and scripts to automate analysis and bug hunting
